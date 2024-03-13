@@ -1,0 +1,6 @@
+A - soma por 2 | proximos 3 numeros são  9, 11, 13
+B - multiplica por 2 | proximos 3 numeros são 128, 256, 512
+C - soma o numero atual com o proximo numero impar | os proximos 3 numeros são 49, 64, 81
+D - Raizes quadradas dos numeros pares | proximos 3 numeros são 100, 144, 196
+E - fibonacchi | o proximo numero é a soma dos dois anteriores | proximos 3 numeros são 13, 21, 34
+F - todos começam com a letra D | proximos 3 numeros são 200, 201, 202

@@ -1,0 +1,7 @@
+1 sala 3 interruptores
+são 3 salas ao total
+
+tentaria achar primeiro o interruptor da minha sala, assim só havera duas opções: 
+- se o interruptor não ligou a lampada da sala que eu fui, então este interruptor é o interruptor da outra sala, e o interruptor que sobrou é o da sala que eu fui. 
+
+- se o interruptor ligou a lampada da sala que eu fui, então o que interruptor que sobrou, é o interruptor da proxima sala. 
